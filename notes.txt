@@ -1,0 +1,35 @@
+Part 1: Form Creation and Layout
+
+    -  Create Form with Bootstrap (First / Last name, Email, Password, Checkbox to agree to terms)
+    - grid layout names side by side
+    - validation classes to ensure the Email and Password fields are required
+    - add a Submit button styled with btn-success.
+
+Part 2: Table for Displaying Data
+
+Simulate Data Collection:
+
+    Below the form, create a table using Bootstrap’s table component.
+    Hard-code user data into the table to simulate submissions.
+    Add striped and hoverable rows for better readability.
+    Make the table responsive by wrapping it in a table-responsive div.
+
+Part 3: Image and Button Utilities
+
+Add an Image Section:
+
+    Include a responsive image using the img-fluid class.
+    Place the image inside a fluid container to stretch it across the page.
+    Add a circular image (rounded-circle) below the main image.
+    Create Two Buttons with Utility Classes:
+
+    One button should be visible on all screen sizes.
+    The second button should be hidden on small screens using responsive display utilities (d-none and d-md-block).
+
+Part 4: Navigation Bar
+
+Build a Responsive Navigation Bar:
+
+    Create a navbar with links to Home, About, and Contact sections.
+    Ensure the navbar collapses into a hamburger menu on smaller screens.
+    Use Bootstrap utilities and components to style the navbar.
